@@ -10,3 +10,8 @@ Většinu repozitářů nazýváme podle následujících pravidel:
 - Název `Ukol-Piskvorky-{cislo}` jsou repozitáře se zadáním pro provinné domácí úkoly v akademii.
 
 Cvičení a projekty jsou v GitHubu nastavené většinou jako šablony, aby se z nich při řešení daly snadno vytvořit vlastní kopie.
+
+## Užitečné odkazy
+
+- [Digitální akademie: Web ma kodim.cz](https://kodim.cz/kurzy/daweb)
+- [Seznam dalších užitečných odkazů na czechitas-podklady.cz](https://czechitas-podklady.cz/)
