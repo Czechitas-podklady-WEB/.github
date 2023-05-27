@@ -7,6 +7,7 @@ Většinu repozitářů nazýváme podle následujících pravidel:
 
 - Prefix `cviceni-` napovídá, že v repozitáři jsou podklady pro cvičení v hodině nebo na doma.
 - Prefix `projekt-` zaštiťuje materiály pro větší cvičení.
+- `cviceni-*-reseni` a `projekt-*-reseni` napovídá, že v repozitáři je vypracované řešení cvičení nebo projektu.
 - Název `Ukol-Piskvorky-{cislo}` jsou repozitáře se zadáním pro provinné domácí úkoly v akademii.
 
 Cvičení a projekty jsou v GitHubu nastavené většinou jako šablony, aby se z nich při řešení daly snadno vytvořit vlastní kopie.
