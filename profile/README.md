@@ -16,3 +16,25 @@ Cvičení a projekty jsou v GitHubu nastavené většinou jako šablony, aby se 
 
 - [Digitální akademie: Web ma kodim.cz](https://kodim.cz/kurzy/daweb)
 - [Seznam dalších užitečných odkazů na czechitas-podklady.cz](https://czechitas-podklady.cz/)
+
+## Sdílené účty
+
+Pro snazší správu a deployment zdarma máme několik sdílených účtů. Pro přístup se obraťe na @FilipChalupa, @FilipJirsak nebo @podlomar.
+
+### GitHub
+
+- E-mail: sprava@czechitas-podklady.cz
+- Web: [github.com](https://github.com/)
+
+### E-mail
+
+- E-mail: sprava@czechitas-podklady.cz
+- Web: [email.seznam.cz](https://email.seznam.cz/)
+
+### Účty s přihlášením přes GitHub
+
+- [Netlify](https://app.netlify.com/)
+- [Deno](https://dash.deno.com/)
+- [Vercel](https://vercel.com/)
+- [Render](https://dashboard.render.com/)
+- [Kodim](https://kodim.cz/)
