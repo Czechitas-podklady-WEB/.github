@@ -31,6 +31,11 @@ Pro snazší správu a deployment zdarma máme několik sdílených účtů. Pro
 - E-mail: sprava@czechitas-podklady.cz
 - Web: [email.seznam.cz](https://email.seznam.cz/)
 
+### Google
+
+- E-mail: sprava@czechitas-podklady.cz
+- Web: [myaccount.google.com](https://myaccount.google.com/)
+
 ### Účty s přihlášením přes GitHub
 
 - [Netlify](https://app.netlify.com/)
