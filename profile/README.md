@@ -42,7 +42,7 @@ Pro snazší správu a deployment zdarma máme několik sdílených účtů. Pro
 - [Deno](https://dash.deno.com/)
 - [Vercel](https://vercel.com/)
 - [Render](https://dashboard.render.com/)
-- [Kodim](https://kodim.cz/)
+- ~[Kodim](https://kodim.cz/)~
 - [ApiFlash](https://apiflash.com/)
 - [CodePen](https://codepen.io/)
 - [CodeSandbox](https://codesandbox.io/)
