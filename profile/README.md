@@ -7,9 +7,10 @@ Většinu repozitářů nazýváme podle následujících pravidel:
 
 - Prefix `cviceni-` napovídá, že v repozitáři jsou podklady pro cvičení v hodině nebo na doma.
 - Prefix `projekt-` zaštiťuje materiály pro větší cvičení.
+- Prefix `api-` jsou backendové projekty zajišťující API pro cvičení nebo projekty.
 - `cviceni-*-reseni` a `projekt-*-reseni` napovídá, že v repozitáři je vypracované řešení cvičení nebo projektu.
 - Název `ukol-piskvorky-{cislo}` jsou repozitáře se zadáním pro provinné domácí úkoly v akademii.
-- Prefix `multirepo-` označuje repository se submoduly odkazujícími na ostatní repository z této organizace.
+- TODO zatím neimplementováno – Prefix `multirepo-` označuje repository se submoduly odkazujícími na ostatní repository z této organizace.
 
 Cvičení a projekty jsou v GitHubu nastavené většinou jako šablony, aby se z nich při řešení daly snadno vytvořit vlastní kopie.
 
